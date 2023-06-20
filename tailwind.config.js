@@ -16,18 +16,11 @@ module.exports = {
                 white: "hsl(0, 0%, 100%)",
                 primary: "hsl(218, 28%, 13%)",
                 footer: "hsl(216, 53%, 9%)",
-                review: "hsl(219, 30%, 18%)"
-                orange: {
-                    primary: "hsl(26, 100%, 55%)",
-                    secondary: "hsl(25, 100%, 94%)",
-                },
-
-                yellow: {
-                    100: "#F55C46",
-                },
-                black: {
-                    lightBox: "hsl(0, 0%, 0%)",
-                },
+                reviewBg: "hsl(219, 30%, 18%)",
+                signupBg: "hsl(217, 28%, 15%)",
+                Cyan: "hsl(176, 68%, 64%)",
+                Blue: "hsl(198, 60%, 50%)",
+                lightRed: "hsl(0, 100%, 63%)",
             },
         },
     },
